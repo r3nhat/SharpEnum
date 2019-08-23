@@ -1,0 +1,5 @@
+C:\Users\dev\Desktop\C_Sharp\SharpEnum\SharpEnum\bin\Debug\SharpEnum.exe.config
+C:\Users\dev\Desktop\C_Sharp\SharpEnum\SharpEnum\bin\Debug\SharpEnum.exe
+C:\Users\dev\Desktop\C_Sharp\SharpEnum\SharpEnum\bin\Debug\SharpEnum.pdb
+C:\Users\dev\Desktop\C_Sharp\SharpEnum\SharpEnum\obj\Debug\SharpEnum.exe
+C:\Users\dev\Desktop\C_Sharp\SharpEnum\SharpEnum\obj\Debug\SharpEnum.pdb

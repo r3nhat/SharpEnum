@@ -1,0 +1,6 @@
+C:\Users\dev\Desktop\C_Sharp\SharpEnum\SharpEnum\bin\Release\SharpEnum.exe.config
+C:\Users\dev\Desktop\C_Sharp\SharpEnum\SharpEnum\bin\Release\SharpEnum.exe
+C:\Users\dev\Desktop\C_Sharp\SharpEnum\SharpEnum\bin\Release\SharpEnum.pdb
+C:\Users\dev\Desktop\C_Sharp\SharpEnum\SharpEnum\obj\Release\SharpEnum.csprojResolveAssemblyReference.cache
+C:\Users\dev\Desktop\C_Sharp\SharpEnum\SharpEnum\obj\Release\SharpEnum.exe
+C:\Users\dev\Desktop\C_Sharp\SharpEnum\SharpEnum\obj\Release\SharpEnum.pdb
